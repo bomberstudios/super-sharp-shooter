@@ -39,5 +39,5 @@
   "description" : "Resize Sketch for Screenshots",
   "authorEmail" : "bomberstudios@gmail.com",
   "name" : "Super Sharp Shooter",
-  "appcast": "https://raw.githubusercontent.com/bomberstudios/super-sharp-shooter/main/.appcast.xml",
+  "appcast": "https://raw.githubusercontent.com/bomberstudios/super-sharp-shooter/master/.appcast.xml",
 }
