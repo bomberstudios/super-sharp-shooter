@@ -35,8 +35,9 @@
     ]
   },
   "identifier" : "com.bomberstudios.supersharpshooter",
-  "version" : "1.1",
+  "version" : "1.2.0",
   "description" : "Resize Sketch for Screenshots",
   "authorEmail" : "bomberstudios@gmail.com",
-  "name" : "Super Sharp Shooter"
+  "name" : "Super Sharp Shooter",
+  "appcast": "https://raw.githubusercontent.com/bomberstudios/super-sharp-shooter/main/.appcast.xml",
 }
