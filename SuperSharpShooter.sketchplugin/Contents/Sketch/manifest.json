@@ -1,0 +1,42 @@
+{
+  "author" : "Ale Muñoz",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "MacBook Air",
+      "handlers" : {
+        "run" : "MacBookAir"
+      },
+      "identifier" : "com.bomberstudios.supersharpshooter.macbook-air"
+    },
+    {
+      "script" : "script.js",
+      "name" : "MacBook Pro 16",
+      "handlers" : {
+        "run" : "MacBookPro"
+      },
+      "identifier" : "com.bomberstudios.supersharpshooter.macbook-pro"
+    },
+    {
+      "script" : "script.js",
+      "name" : "iMac 27",
+      "handlers" : {
+        "run" : "iMac27"
+      },
+      "identifier" : "com.bomberstudios.supersharpshooter.imac-27"
+    }
+  ],
+  "menu" : {
+    "title" : "Super Sharp Shooter",
+    "items" : [
+      "com.bomberstudios.supersharpshooter.macbook-air",
+      "com.bomberstudios.supersharpshooter.macbook-pro",
+      "com.bomberstudios.supersharpshooter.imac-27"
+    ]
+  },
+  "identifier" : "com.bomberstudios.supersharpshooter",
+  "version" : "1.1",
+  "description" : "Resize Sketch for Screenshots",
+  "authorEmail" : "bomberstudios@gmail.com",
+  "name" : "Super Sharp Shooter"
+}
